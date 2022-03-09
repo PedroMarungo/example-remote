@@ -1,1 +1,1 @@
-hello world
+A basic ReadMe file with example text
